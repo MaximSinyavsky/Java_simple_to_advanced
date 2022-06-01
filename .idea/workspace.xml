@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="220b9177-c6cc-43d7-b71e-ef1fe41f5184" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/com/javalesson/HelloWorld.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/javalesson/operators/operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/operators/operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/IT/GitHub/Java_simple_to_advanced",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IT/GitHub/Java_simple_to_advanced&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.operators">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javalesson.hello.HelloWorld" />

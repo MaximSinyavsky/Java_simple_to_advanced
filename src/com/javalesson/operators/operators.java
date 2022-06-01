@@ -32,7 +32,23 @@ public class operators {
         double m = 7;
         double result1 = 2 * n++;
         double result2 = 2 * ++m;
-        System.out.println("result1 = "+result1);
-        System.out.println("result2 = "+result2);
+        System.out.println("result1 = " + result1);
+        System.out.println("result2 = " + result2);
+
+        int x = 3;
+        int y = 5;
+        int z = 8;
+        boolean boolValue = x != y;
+        System.out.println("boolValue = " + boolValue);
+        boolean boolValue2 = y > z;
+        System.out.println("boolValue2 = " + boolValue2);
+        boolean resultBoolean = boolValue2 || boolValue;
+        System.out.println("resultBoolean = " + resultBoolean);
+
+        //Тенарный оператор:
+        int res = x < y ? x : y;
+        System.out.println("tenarny res =" + res);
+
+        System.out.println("NOT = " + !(x > y));
     }
 }
