@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220b9177-c6cc-43d7-b71e-ef1fe41f5184" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javalesson/controlstatement/whileDo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javalesson/controlstatement/whileDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/controlstatement/whileDo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.controls">
+  <component name="RunManager" selected="Application.whileDo">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javalesson.hello.HelloWorld" />
       <module name="Java_simple_to_advanced" />
@@ -77,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="whileDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalesson.controlstatement.whileDo" />
+      <module name="Java_simple_to_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalesson.controlstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.whileDo" />
         <item itemvalue="Application.controls" />
         <item itemvalue="Application.operators" />
         <item itemvalue="Application.HelloWorld" />
