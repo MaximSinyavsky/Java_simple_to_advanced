@@ -13,6 +13,7 @@ public class whileDo {
 //            years++;
 //            System.out.println("Year " + years + " " + currentBalace);
 //        }
+// Неопределенный цикл:
         do {
             currentBalace += payment;
             currentBalace = currentBalace + currentBalace * interestRate;
