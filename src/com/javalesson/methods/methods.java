@@ -5,13 +5,15 @@ public class methods {
         printMassage("Alex");
 //        printMassage("Maxim");
 //        printMassage("Oleg");
-        int a = 5;
-        int b = 10;
-        System.out.println("Rectangle Square = " + calcRectangleSquare(a, b));
-        System.out.println("Square = " + calcSquare(b));
-        //int sumOfSquares = calcSquare(b) +calcRectangleSquare(a, b);
+        System.out.println("Rectangle Square = " + calcRectangleSquare(5, 10));
+        System.out.println("Square = " + calcSquare(10));
+        //int sumOfSquares = calcSquare(b) +calcRectangleSquare(5, 10);
         //System.out.println("sum Of Squares = "+sumOfSquares);
-        System.out.println("sum Of Squares = " + (calcSquare(b) + calcRectangleSquare(a, b)));
+        System.out.println("sum Of Squares = " + (calcSquare(10) + calcRectangleSquare(5, 10)));
+        String str1 = "i love coffe";
+        str1.toUpperCase();
+        // STOPSHIP: 23.06.2022  
+
 
     }
 
