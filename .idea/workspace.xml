@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="220b9177-c6cc-43d7-b71e-ef1fe41f5184" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javalesson/methods/methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javalesson/controlstatement/switchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javalesson/controlstatement/switchCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.switchCase">
+  <component name="RunManager" selected="Application.methods">
     <configuration name="controls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javalesson.controlstatement.controls" />
       <module name="Java_simple_to_advanced" />
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javalesson.operators.operators" />
+    <configuration name="methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalesson.methods.methods" />
       <module name="Java_simple_to_advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javalesson.operators.*" />
+          <option name="PATTERN" value="com.javalesson.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.methods" />
         <item itemvalue="Application.switchCase" />
         <item itemvalue="Application.forLoop" />
         <item itemvalue="Application.whileDo" />
         <item itemvalue="Application.controls" />
-        <item itemvalue="Application.operators" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +134,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/javalesson/methods/methods.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_simple_to_advanced$forLoop.ic" NAME="forLoop Coverage Results" MODIFIED="1654245815344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
