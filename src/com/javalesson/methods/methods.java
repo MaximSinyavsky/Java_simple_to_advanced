@@ -7,12 +7,12 @@ public class methods {
 //        printMassage("Oleg");
         int a = 5;
         int b = 10;
-        int rectangleSquare = calcRectangleSquare(a, b);
-        System.out.println("Rectangle Square = " + rectangleSquare);
-        int square = calcSquare(b);
-        System.out.println("Square = " + square);
-        int sumOfSquares = square +rectangleSquare;
-        System.out.println("sum Of Squares = "+sumOfSquares);
+        System.out.println("Rectangle Square = " + calcRectangleSquare(a, b));
+        System.out.println("Square = " + calcSquare(b));
+        //int sumOfSquares = calcSquare(b) +calcRectangleSquare(a, b);
+        //System.out.println("sum Of Squares = "+sumOfSquares);
+        System.out.println("sum Of Squares = " + (calcSquare(b) + calcRectangleSquare(a, b)));
+
     }
 
     static void printMassage(String name) {
