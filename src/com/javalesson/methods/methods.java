@@ -10,10 +10,17 @@ public class methods {
         //int sumOfSquares = calcSquare(b) +calcRectangleSquare(5, 10);
         //System.out.println("sum Of Squares = "+sumOfSquares);
         System.out.println("sum Of Squares = " + (calcSquare(10) + calcRectangleSquare(5, 10)));
-        String str1 = "i love coffe";
-        str1.toUpperCase();
-        // STOPSHIP: 23.06.2022  
 
+        String str1 = "i love coffee";
+        System.out.println(str1.toUpperCase());
+        System.out.println(str1.toLowerCase());
+        // STOPSHIP: 23.06.2022
+        String str2 = "i love coffee";
+        String str3 = "i love coffee!!!";
+        str3.substring(0,13);
+        boolean b = str2 == str1;
+        System.out.println(b);
+        System.out.println(str3.substring(0,13));
 
     }
 
