@@ -1,8 +1,9 @@
 package com.javalesson.oop;
 
 public class Dog {
-    public int pows = 4;
-    public int tail = 1;
-    public String name;
-    public String breed;
+    private int paws = 4;
+    private int tail = 1;
+    private String name;
+    private String breed;
+    // STOPSHIP: 06.07.2022  
 }
