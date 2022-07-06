@@ -28,6 +28,8 @@ public class methods {
         boolean like2 = str2.endsWith("fee");
         System.out.println(like2);
         System.out.println(str1.replace("black","white"));
+        System.out.println(str3.indexOf("!!!"));
+        // STOPSHIP: 06.07.2022  
 
     }
 
