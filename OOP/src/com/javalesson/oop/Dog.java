@@ -91,9 +91,9 @@ public class Dog {
     public void bite() {
         if (dogsCount > 2) {
             System.out.println("Dogs are biting you");
-        } else {
-            bark();
+        } else {            bark();
         }
     }
 }
 // STOPSHIP: 06.07.2022 lesson 17;
+// STOPSHIP: 07.07.2022 lesson 18;

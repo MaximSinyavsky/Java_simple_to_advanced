@@ -1,6 +1,4 @@
-package com.javalesson.oop2;
-
-import com.javalesson.oop.Dog;
+package com.javalesson.oop;
 
 public class Main {
     public static void main(String[] args) {
@@ -48,3 +46,8 @@ public class Main {
     }
 }
 // STOPSHIP: 06.07.2022 lesson 17;
+//private
+//package private or default
+//protected
+//public
+// STOPSHIP: 07.07.2022 lesson 18; 
