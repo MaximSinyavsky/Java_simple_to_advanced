@@ -25,9 +25,7 @@ public class Dog {
     }
 
     public void setSize(String size) {
-        if (size.equalsIgnoreCase("big") ||
-                size.equalsIgnoreCase("average") ||
-                size.equalsIgnoreCase("small")) {
+        if (size.equalsIgnoreCase("big") || size.equalsIgnoreCase("average") || size.equalsIgnoreCase("small")) {
             this.size = size;
         } else {
             System.out.println("Size should be one of these: Big, Average or Small");
@@ -98,4 +96,4 @@ public class Dog {
         }
     }
 }
-// STOPSHIP: 06.07.2022 lesson 17; 
+// STOPSHIP: 06.07.2022 lesson 17;

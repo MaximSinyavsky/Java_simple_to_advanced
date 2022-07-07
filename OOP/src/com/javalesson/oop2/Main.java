@@ -1,4 +1,6 @@
-package com.javalesson.oop;
+package com.javalesson.oop2;
+
+import com.javalesson.oop.Dog;
 
 public class Main {
     public static void main(String[] args) {
@@ -35,6 +37,8 @@ public class Main {
         doberman.setPaws(4);
         doberman.setBreed("doberman");
         doberman.bite();
+
+//        System.out.println(doberman.getSize());
 
         System.out.println("Lab's name is " + lab.getName());
         System.out.println("Sheppard's name is " + sheppard.getName());
