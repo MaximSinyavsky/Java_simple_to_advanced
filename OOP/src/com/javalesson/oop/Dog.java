@@ -45,7 +45,7 @@ public class Dog {
         return paws;
     }
 
-    public void setPaws(int paws) {
+    protected void setPaws(int paws) {
         if (paws == 4) {
             this.paws = paws;
         } else {
