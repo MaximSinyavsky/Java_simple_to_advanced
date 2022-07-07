@@ -7,6 +7,10 @@ public class BigDog extends Dog {
     public void setSize(String size) {
         super.setSize(size);
     }
+    //private
+    //package private or default
+    //protected
+    //public
 
     @Override
     protected void setPaws(int paws) {
